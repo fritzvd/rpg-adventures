@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Silvan Shadowcat",
+    "adjectives": ["Nimble", "Elusive"],
+    "attributeLevel": 6,
+    "stats": {
+      "endurance": 24,
+      "might": 1,
+      "hate": 3,
+      "parry": 2,
+      "armour": 0
+    },
+    "combatProficiencies": [
+      { "weapon": "Claw", "rating": 4, "damage": "4/12", "type": "Slash" },
+      { "weapon": "Bite", "rating": 3, "damage": "3/10", "type": "Pierce" }
+    ],
+    "fellAbilities": []
+  },
+  {
+    "name": "Luminescent Will-o'-Wisps",
+    "adjectives": ["Ethereal", "Mischievous"],
+    "attributeLevel": 3,
+    "stats": {
+      "endurance": 12,
+      "might": 1,
+      "hate": 2,
+      "parry": null,
+      "armour": 0
+    },
+    "combatProficiencies": [],
+    "fellAbilities": []
+  },
+  {
+    "name": "Mossy Thicket Trolls",
+    "adjectives": ["Territorial", "Hardy"],
+    "attributeLevel": 8,
+    "stats": {
+      "endurance": 32,
+      "might": 2,
+      "hate": 5,
+      "parry": 1,
+      "armour": 2
+    },
+    "combatProficiencies": [
+      { "weapon": "Club", "rating": 4, "damage": "4/14", "type": "Crush" },
+      { "weapon": "Grapple", "rating": 3, "damage": "3/12", "type": "Crush" }
+    ],
+    "fellAbilities": []
+  },
+  {
+    "name": "Whispering Wisps",
+    "adjectives": ["Benevolent", "Ethereal"],
+    "attributeLevel": 4,
+    "stats": {
+      "endurance": 16,
+      "might": 1,
+      "hate": 2,
+      "parry": null,
+      "armour": 0
+    },
+    "combatProficiencies": [],
+    "fellAbilities": []
+  },
+  {
+    "name": "Ancient Entling Grove",
+    "adjectives": ["Wise", "Guardian"],
+    "attributeLevel": 7,
+    "stats": {
+      "endurance": 28,
+      "might": 1,
+      "hate": 4,
+      "parry": 2,
+      "armour": 1
+    },
+    "combatProficiencies": [
+      { "weapon": "Grasp", "rating": 4, "damage": "4/12", "type": "Crush" },
+      { "weapon": "Slam", "rating": 3, "damage": "3/14", "type": "Crush" }
+    ],
+    "fellAbilities": []
+  },
+  {
+    "name": "Bree Ranger - Aric Swiftfoot",
+    "adjectives": ["Wary", "Canny"],
+    "attributeLevel": 5,
+    "stats": {
+      "endurance": 20,
+      "might": 1,
+      "hate": 3,
+      "parry": 2,
+      "armour": 1
+    },
+    "combatProficiencies": [
+      { "weapon": "Sword", "rating": 3, "damage": "3/12", "type": "Slash" },
+      { "weapon": "Bow", "rating": 3, "damage": "3/18", "type": "Pierce" }
+    ],
+    "fellAbilities": [{ "ability": "Craven" }]
+  },
+  {
+    "name": "Bilba Shadowfoot, the Corrupted Hobbit",
+    "adjectives": ["Shadowy", "Deceptive"],
+    "attributeLevel": 4,
+    "stats": {
+      "endurance": 18,
+      "might": 1,
+      "hate": 5,
+      "parry": 1,
+      "armour": 0
+    },
+    "combatProficiencies": [
+      { "weapon": "Dagger", "rating": 3, "damage": "3/10", "type": "Slash" }
+    ],
+    "fellAbilities": [{ "ability": "Whisper of the Shadow" }]
+  }
+]

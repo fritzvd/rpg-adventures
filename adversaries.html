@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Adversaries Visualization</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div id="searchContainer">
+        <label for="searchInput">Search: </label>
+        <input type="text" id="searchInput" oninput="filterAdversaries()" />
+      </div>
+      <div id="navigation"></div>
+      <div id="characterList"></div>
+      <div id="characterInfo"></div>
+    </div>
+    <script src="adversaries.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
