@@ -17,8 +17,6 @@ Key Points:
 
 4. **Defector's Revelation**: The defector reveals crucial information about an Imperial operation on Tatooine. The players must decide whether to relay this intel to the Rebellion immediately or use it to negotiate with Teemo for a smoother escape.
 
-This simpler adventure focuses on negotiation, infiltration, and decision-making, providing a straightforward yet engaging Star Wars experience.
-
 ## Part 1 Arrival
 
 1. **Docking Bay Operator - Greeta Voska:**
@@ -40,11 +38,7 @@ This simpler adventure focuses on negotiation, infiltration, and decision-making
    - Captain Talor is a no-nonsense human officer leading a small Imperial patrol.
    - The players encounter her in the spaceport, and how they handle the interaction may impact Imperial awareness of their presence.
 
-These NPCs add depth to the arrival, providing potential allies, sources of information, and challenges as the players begin their mission on Tatooine.
-
 ## Negotiating and gathering intel
-
-Certainly! Let's incorporate a puzzle into the negotiation challenge involving two informants. The puzzle requires the players to gather information from both informants to piece together the details needed for the negotiation.
 
 **Negotiation Challenge with Puzzle:**
 
@@ -74,11 +68,7 @@ The players, seeking information on Teemo's demands for releasing the defector, 
 
 - Armed with both pieces of information, the players can approach Teemo with a more nuanced understanding of how to negotiate effectively, increasing their chances of a successful outcome.
 
-This puzzle adds an interactive and cerebral element to the negotiation challenge, requiring players to engage with the environment and use their problem-solving skills to gather the necessary information.
-
 ## Getting into the palace
-
-Certainly! Here are four alternative ways the players could approach infiltrating Teemo's palace, avoiding the front door:
 
 1. **Sewer Access:**
 
@@ -99,11 +89,7 @@ Certainly! Here are four alternative ways the players could approach infiltratin
    - _Description:_ The palace has a series of upper-level balconies overlooking a courtyard. The players might discover a hidden path or climb their way up to the balconies, providing a vantage point to observe the palace layout and access less guarded entry points.
    - _Challenge:_ Climbing or accessing the upper levels requires agility and stealth. Once on the balcony, players need to navigate discreetly to avoid detection by guards or surveillance systems.
 
-These alternative approaches give the players diverse options for entering Teemo's palace, encouraging creativity and allowing them to choose a method that aligns with their skills and resources.
-
 ## Traps
-
-Certainly! Here are three examples of hidden traps that the players might encounter during the palace infiltration:
 
 1. **Thermal Sensor Alarm:**
 
@@ -119,11 +105,7 @@ Certainly! Here are three examples of hidden traps that the players might encoun
    - _Description:_ A section of the floor in a grand hall appears solid, but it's actually a false floor covering a pitfall. Falling in would lead to a lower level, where Teemo's guards are stationed.
    - _Challenge:_ Players need to discern the safe path across the hall, either by using their wits, spotting subtle differences in the floor, or finding a hidden switch that temporarily reveals the true path.
 
-These traps add an element of suspense and strategy to the infiltration, encouraging players to think creatively and utilize their skills to navigate Teemo's palace safely.
-
 ## Skirmish conclusion
-
-Certainly! Let's incorporate a skirmish or attack during the "Palace Infiltration" to add some action to the adventure:
 
 4. **Defector's Revelation & Ambush:**
 
@@ -142,4 +124,103 @@ Certainly! Let's incorporate a skirmish or attack during the "Palace Infiltratio
      - Alternatively, they might decide to negotiate with Teemo in the midst of the battle, using the Imperial attack as leverage to secure the defector's release.
      - The players could also attempt a stealthy exit, taking advantage of the confusion to slip away without engaging in the skirmish directly.
 
-This addition introduces a dynamic element to the climax of the adventure, allowing players to choose their approach based on their playstyle and the information they've gathered throughout the mission.
+## Stats
+
+1. **Docking Bay Operator - Greeta Voska:**
+
+   - Dexterity: 2D
+   - Knowledge: 3D
+   - Mechanical: 2D
+   - Perception: 3D+1
+   - Strength: 2D
+   - Technical: 3D
+   - Move: 10
+   - Character Points: 2
+   - Force Points: 1
+
+2. **Informant - Jax Marrick:**
+
+   - Dexterity: 3D
+   - Knowledge: 2D+2
+   - Mechanical: 2D+1
+   - Perception: 4D
+   - Strength: 2D
+   - Technical: 3D
+   - Move: 10
+   - Character Points: 3
+   - Force Points: 1
+
+3. **Local Guide - Kell Vikarn:**
+
+   - Dexterity: 3D+1
+   - Knowledge: 2D
+   - Mechanical: 2D+2
+   - Perception: 3D
+   - Strength: 3D
+   - Technical: 2D
+   - Move: 11
+   - Character Points: 2
+   - Force Points: 1
+
+4. **Imperial Patrol Leader - Captain Renna Talor:**
+
+   - Dexterity: 3D+2
+   - Knowledge: 2D
+   - Mechanical: 3D
+   - Perception: 3D+1
+   - Strength: 3D
+   - Technical: 2D
+   - Move: 10
+   - Character Points: 3
+   - Force Points: 2
+
+5. **Defector - Elena Korr:**
+   - Dexterity: 3D
+   - Knowledge: 3D+1
+   - Mechanical: 2D+2
+   - Perception: 4D
+   - Strength: 2D+1
+   - Technical: 3D
+   - Move: 10
+   - Character Points: 4
+   - Force Points: 1
+
+### Stormtrooper
+
+- Dexterity: 3D
+- Knowledge: 2D
+- Mechanical: 2D
+- Perception: 2D
+- Strength: 3D
+- Technical: 2D
+
+**Equipment:**
+
+- Blaster Rifle: 5D damage
+- Stormtrooper Armor (provides +2D to resist physical damage)
+
+**Move:** 10
+
+**Character Points:** 1
+
+**Force Points:** 1
+
+### Scoundrel or Bandit
+
+- Dexterity: 3D
+- Knowledge: 2D
+- Mechanical: 2D
+- Perception: 3D
+- Strength: 2D
+- Technical: 2D
+
+**Equipment:**
+
+- Blaster Pistol: 4D damage
+- Vibroblade: 3D damage
+
+**Move:** 10
+
+**Character Points:** 1
+
+**Force Points:** 1
