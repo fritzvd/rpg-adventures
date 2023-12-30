@@ -126,17 +126,118 @@ The players, seeking information on Teemo's demands for releasing the defector, 
 
 ## Stats
 
+Certainly! Here are the stats in a more compact HTML table format:
+
+<table border="1">
+  <tr>
+    <th>NPC</th>
+    <th>DEX</th>
+    <th>KNO</th>
+    <th>MEC</th>
+    <th>PER</th>
+    <th>STR</th>
+    <th>TEC</th>
+    <th>Move</th>
+    <th>Char Points</th>
+    <th>Force Points</th>
+  </tr>
+  <tr>
+    <td>Docking Bay Operator - Greeta Voska</td>
+    <td>2D</td>
+    <td>3D</td>
+    <td>2D</td>
+    <td>3D+1</td>
+    <td>2D</td>
+    <td>3D</td>
+    <td>10</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Informant - Jax Marrick</td>
+    <td>3D</td>
+    <td>2D+2</td>
+    <td>2D+1</td>
+    <td>4D</td>
+    <td>2D</td>
+    <td>3D</td>
+    <td>10</td>
+    <td>3</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Local Guide - Kell Vikarn</td>
+    <td>3D+1</td>
+    <td>2D</td>
+    <td>2D+2</td>
+    <td>3D</td>
+    <td>3D</td>
+    <td>2D</td>
+    <td>11</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Imperial Patrol Leader - Captain Renna Talor</td>
+    <td>3D+2</td>
+    <td>2D</td>
+    <td>3D</td>
+    <td>3D+1</td>
+    <td>3D</td>
+    <td>2D</td>
+    <td>10</td>
+    <td>3</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Defector - Elena Korr</td>
+    <td>3D</td>
+    <td>3D+1</td>
+    <td>2D+2</td>
+    <td>4D</td>
+    <td>2D+1</td>
+    <td>3D</td>
+    <td>10</td>
+    <td>4</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Stormtrooper</td>
+    <td>3D</td>
+    <td>2D</td>
+    <td>2D</td>
+    <td>2D</td>
+    <td>3D</td>
+    <td>2D</td>
+    <td>10</td>
+    <td>1</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Scoundrel or Bandit</td>
+    <td>3D</td>
+    <td>2D</td>
+    <td>2D</td>
+    <td>3D</td>
+    <td>2D</td>
+    <td>2D</td>
+    <td>10</td>
+    <td>1</td>
+    <td>1</td>
+  </tr>
+</table>
+<!--
 1. **Docking Bay Operator - Greeta Voska:**
 
-   - Dexterity: 2D
-   - Knowledge: 3D
-   - Mechanical: 2D
-   - Perception: 3D+1
-   - Strength: 2D
-   - Technical: 3D
-   - Move: 10
-   - Character Points: 2
-   - Force Points: 1
+<!-- - Dexterity: 2D
+- Knowledge: 3D
+- Mechanical: 2D
+- Perception: 3D+1
+- Strength: 2D
+- Technical: 3D
+- Move: 10
+- Character Points: 2
+- Force Points: 1
 
 2. **Informant - Jax Marrick:**
 
@@ -223,4 +324,52 @@ The players, seeking information on Teemo's demands for releasing the defector, 
 
 **Character Points:** 1
 
-**Force Points:** 1
+**Force Points:** 1 -->
+
+<!--
+  <div>
+    <h2>Docking Bay Operator - Greeta Voska</h2>
+    <p>Greeta Voska is a savvy Twi'lek who oversees the docking bays in Mos Eisley.</p>
+    <table>
+      <tr>
+        <th>Attribute</th>
+        <th>Dice Code</th>
+      </tr>
+      <tr>
+        <td>Dexterity</td>
+        <td>2D</td>
+      </tr>
+      <tr>
+        <td>Knowledge</td>
+        <td>3D</td>
+      </tr>
+      <tr>
+        <td>Mechanical</td>
+        <td>2D</td>
+      </tr>
+      <tr>
+        <td>Perception</td>
+        <td>3D+1</td>
+      </tr>
+      <tr>
+        <td>Strength</td>
+        <td>2D</td>
+      </tr>
+      <tr>
+        <td>Technical</td>
+        <td>3D</td>
+      </tr>
+      <tr>
+        <td>Move</td>
+        <td>10</td>
+      </tr>
+      <tr>
+        <td>Character Points</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Force Points</td>
+        <td>1</td>
+      </tr>
+    </table>
+  </div> -->
