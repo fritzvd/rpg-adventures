@@ -68,6 +68,32 @@ The players, seeking information on Teemo's demands for releasing the defector, 
 
 - Armed with both pieces of information, the players can approach Teemo with a more nuanced understanding of how to negotiate effectively, increasing their chances of a successful outcome.
 
+### Teemo's interests
+
+1. **Artistic Collectibles:**
+
+   - _Interest:_ Teemo has a penchant for rare artistic collectibles, particularly those with historical or cultural significance.
+   - _Exploitation:_ The players could offer a valuable piece of art or information about the whereabouts of a unique artifact in exchange for the defector's release.
+
+2. **Exotic Pets:**
+
+   - _Interest:_ Teemo has a collection of exotic pets from various corners of the galaxy, and he takes pride in showcasing them.
+   - _Exploitation:_ The players could present information about a rare creature or offer the opportunity to acquire a highly sought-after pet in exchange for cooperation.
+
+3. **Gambling Addiction:**
+
+   - _Quirk:_ Teemo has a notorious gambling addiction and is often drawn to games of chance.
+   - _Exploitation:_ The players could propose a high-stakes game or share information about a rare and valuable item, framing it as a potential win in a wager to capture Teemo's interest.
+
+4. **Fear of Betrayal:**
+
+   - _Quirk:_ Teemo harbors a deep-seated fear of betrayal and is constantly on guard against potential threats.
+   - _Exploitation:_ The players could play on this fear by presenting themselves as trustworthy allies, emphasizing their shared goals and the risks posed by external enemies.
+
+5. **Tribute Tradition:**
+   - _Quirk:_ Teemo values the tradition of receiving tribute as a sign of respect.
+   - _Exploitation:_ The players could present a symbolic tribute or offer information about a valuable resource, framing it as a gesture of respect and alliance.
+
 ## Getting into the palace
 
 1. **Sewer Access:**
@@ -89,7 +115,7 @@ The players, seeking information on Teemo's demands for releasing the defector, 
    - _Description:_ The palace has a series of upper-level balconies overlooking a courtyard. The players might discover a hidden path or climb their way up to the balconies, providing a vantage point to observe the palace layout and access less guarded entry points.
    - _Challenge:_ Climbing or accessing the upper levels requires agility and stealth. Once on the balcony, players need to navigate discreetly to avoid detection by guards or surveillance systems.
 
-## Traps
+### Traps
 
 1. **Thermal Sensor Alarm:**
 
