@@ -251,6 +251,30 @@ Certainly! Here are the stats in a more compact HTML table format:
     <td>1</td>
     <td>1</td>
   </tr>
+    <tr>
+    <td>Gamorrean Guards</td>
+    <td>3D</td>
+    <td>1D</td>
+    <td>1D</td>
+    <td>2D</td>
+    <td>4D</td>
+    <td>1D</td>
+    <td>10</td>
+    <td>1</td>
+    <td>1</td>
+  </tr>
+    <tr>
+    <td>EV-9D9</td>
+    <td>4D</td>
+    <td>3D</td>
+    <td>3D</td>
+    <td>3D</td>
+    <td>2D</td>
+    <td>4D</td>
+    <td>10</td>
+    <td>1</td>
+    <td>1</td>
+  </tr>
 </table>
 <!--
 1. **Docking Bay Operator - Greeta Voska:**
