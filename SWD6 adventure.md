@@ -164,8 +164,8 @@ Certainly! Here are the stats in a more compact HTML table format:
     <th>STR</th>
     <th>TEC</th>
     <th>Move</th>
-    <th>Char Points</th>
-    <th>Force Points</th>
+    <th>CP</th>
+    <th>FP</th>
   </tr>
   <tr>
     <td>Docking Bay Operator - Greeta Voska</td>
