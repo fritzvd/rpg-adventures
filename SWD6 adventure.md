@@ -168,7 +168,7 @@ Certainly! Here are the stats in a more compact HTML table format:
     <th>FP</th>
   </tr>
   <tr>
-    <td>Docking Bay Operator - Greeta Voska</td>
+    <td>Greeta Voska</td>
     <td>2D</td>
     <td>3D</td>
     <td>2D</td>
@@ -180,7 +180,7 @@ Certainly! Here are the stats in a more compact HTML table format:
     <td>1</td>
   </tr>
   <tr>
-    <td>Informant - Jax Marrick</td>
+    <td>Jax Marrick</td>
     <td>3D</td>
     <td>2D+2</td>
     <td>2D+1</td>
@@ -192,7 +192,7 @@ Certainly! Here are the stats in a more compact HTML table format:
     <td>1</td>
   </tr>
   <tr>
-    <td>Local Guide - Kell Vikarn</td>
+    <td>Kell Vikarn</td>
     <td>3D+1</td>
     <td>2D</td>
     <td>2D+2</td>
@@ -204,7 +204,7 @@ Certainly! Here are the stats in a more compact HTML table format:
     <td>1</td>
   </tr>
   <tr>
-    <td>Imperial Patrol Leader - Captain Renna Talor</td>
+    <td>Captain Renna Talor</td>
     <td>3D+2</td>
     <td>2D</td>
     <td>3D</td>
@@ -216,7 +216,7 @@ Certainly! Here are the stats in a more compact HTML table format:
     <td>2</td>
   </tr>
   <tr>
-    <td>Defector - Elena Korr</td>
+    <td>Elena Korr</td>
     <td>3D</td>
     <td>3D+1</td>
     <td>2D+2</td>
