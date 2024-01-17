@@ -102,6 +102,30 @@ Onderdeel van grotere campaign
 
 - The adventurers begin their journey at a crossroads in the Shire, where they receive a message from Balin, son of Fundin, asking for their aid. They must decide on the best route to the Blue Mountains, setting the tone for the quest.
 
+##### Introductie
+
+Certainly! Here's the adjusted continuation with a focus on the Khazadûl Beacon in Dutch:
+
+---
+
+Bilbo Baggins zat in de gezellige warmte van zijn hobbit-gat, het knapperende vuur wierp een gouden gloed over de kamer. De geur van versgebakken brood waaide uit de keuken, en de planken waren gevuld met nieuwsgierige snuisterijen van zijn reizen. Een zacht geklop weerklonk door het hobbit-gat, en Bilbo, altijd de gracieuze gastheer, haastte zich om de deur te openen.
+
+Tot zijn vreugde stonden er vier avonturiers aan zijn deur, hun gezichten een mix van nieuwsgierigheid en verwachting. Bilbo leidde hen naar binnen, en al snel werd de ruimte gevuld met het geklets van hobbits en het hartelijke gelach van de nieuwkomers.
+
+"Nou, mijn beste vrienden," begon Bilbo, zijn ogen twinkelden van opwinding, "ik heb jullie hierheen geroepen voor een zaak van groot belang. Balin, zoon van Fundin, stuurde een bericht vanuit de Blauwe Bergen, en het lijkt erop dat de problemen daar meer zijn dan ons kleine Hobbiton aankan."
+
+De avonturiers wisselden blikken uit en realiseerden zich dat dit geen gewone bijeenkomst was.
+
+Op dat moment klonk er nog een klop op de deur, en Balin stapte naar binnen, zijn aanwezigheid imposant en zijn ogen doordringend.
+
+"Balin!" begroette Bilbo hem met een brede glimlach. "Laat me je voorstellen aan deze dappere zielen. Zij zijn degenen die ons kunnen helpen met de taak die je hebt voorgesteld."
+
+Balin knikte ernstig en begroette de avonturiers met een stevige handdruk. "Goede mensen," sprak hij met een diepe stem. "Ik waardeer dat jullie gehoor hebben gegeven aan ons verzoek. De Blauwe Bergen hebben behoefte aan de moed die alleen buitenstaanders kunnen brengen."
+
+Hij wendde zich tot de kaart op tafel en begon uit te leggen dat er een bijzondere kaart gevonden is waarvan vernomen wordt dat het de locatie van de Khazadûl Beacon beschrijft. De avonturiers luisterden aandachtig terwijl Balin sprak over de opkomende dreiging, de mysterieuze Orc-activiteit en de waardevolle Dwarven Khazadûl Beacon die bescherming nodig had.
+
+Terwijl de avond vorderde, werden plannen gesmeed en banden gesmeed tussen de Hobbits en de avonturiers. Samen zouden ze de schaduwen onder de pieken trotseren en de Blauwe Bergen verlossen van het dreigende kwaad, met de Khazadûl Beacon als hun leidende licht.
+
 #### 2. Travel/Obstacle: The Forest of Greenhollow
 
 - The party enters the Forest of Greenhollow, a dense woodland that poses challenges such as tangled underbrush, hidden creatures, and navigating a mysterious elven path. Along the way, they encounter an Elf named Galadrialin, who offers guidance and warns of the potential dangers ahead.
