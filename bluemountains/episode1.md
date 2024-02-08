@@ -59,3 +59,11 @@ These paths and illusionary traps provide the adventurers with meaningful choice
 De bergen in geeft zijn eigen uitdagingen. Het is koud, het pad is nauw en het waait en het regent constant.
 
 Om te rusten zijn er hier en daar inkepingen in de bergen.
+
+## Skali Fireforge
+
+Jullie worden naar binnengeleid door de bewakers en daar zit op een stenen verhoging Skali Fireforge. Met een grote frons in zijn wenkbrauwen. In zijn handen heeft hij de brief van Eladron.
+
+Hij mompelt en gromt in zichzelf: "Elven moeten zich ook altijd weer bemoeien met van alles, mensen en tovenaars. Het is ook nooit goed."
+
+Hij richt zich op en kijkt jullie argwanend aan....
