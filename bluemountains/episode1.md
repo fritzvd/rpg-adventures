@@ -18,6 +18,8 @@ Verder laat Eladron nog los dat als ze terugkomen er nog veel meer te doen is in
 
 5. **The Guardian's Vigil at Thrainhold Entrance:** The adventurers reach the entrance of Thrainhold, guarded by Durin Stonehelm. Trust must be earned through Dwarven lore, strategic roleplay, or cunning maneuvers. Failure may lead to a ban from Thrainhold or a direct confrontation with Dwarven guards.
 
+In Thrainhold, the ruler is a wise and stalwart Dwarf known as Dúrin Ironhammer. Dúrin is a descendant of the legendary line of Durin the Deathless, and he rules with a firm yet fair hand, embodying the traditional values of the Dwarven people—strength, loyalty, and resilience. As the leader of Thrainhold, Dúrin oversees the affairs of the mountain realm, ensuring the prosperity and safety of his people amidst the looming shadows of the Blue Mountains. He is deeply respected by both Dwarves and allies alike, and his name inspires reverence throughout the halls of Thrainhold.
+
 #### Whispering Woods
 
 Na een paar dagen reizen in de bossen, komen ze op een open stuk waar water stroomt. Er is even tijd voor bijkomen. Voorbij het open stuk echter zijn 2 paden om te kiezen, 1 meer NW, 1 meer NO. Links schijnt er meer zon door, rechts lijkt wat donkerder te zijn.
