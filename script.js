@@ -7,7 +7,7 @@ function displayCharacterInfo(data) {
   characterInfoContainer.innerHTML = `
     <h2>${data.name}</h2>
     <p><strong>Adjectives:</strong> ${data.adjectives.join(", ")}</p>
-    <p><strong>Attribute Level:</strong> ${data.attributeLevel}</p>
+    <div class="attribute"> ${data.attributeLevel}</div>
     <p><strong>Stats:</strong></p>
     <ul>
       <li>Endurance: ${data.stats.endurance}</li>

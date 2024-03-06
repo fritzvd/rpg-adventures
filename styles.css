@@ -30,3 +30,16 @@ body {
   background-color: #f9f9f9;
   text-align: left;
 }
+
+.attribute {
+  position: relative;
+  padding: 0.9em;
+  float: right;
+  text-align: center;
+  font-size: 1.6em;
+  color: maroon;
+  border: 1px solid maroon;
+  width: 2em;
+  height: 2em;
+  border-radius: 50%;
+}
