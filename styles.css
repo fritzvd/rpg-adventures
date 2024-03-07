@@ -43,3 +43,10 @@ body {
   height: 2em;
   border-radius: 50%;
 }
+
+nav {
+  max-height: 100px;
+  overflow: scroll;
+  display: flex;
+  flex-direction: column;
+}

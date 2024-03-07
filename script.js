@@ -65,16 +65,18 @@ function displayAdversaries(startingLetter) {
   );
   const characterListContainer = document.getElementById("characterList");
   characterListContainer.innerHTML = "<h3>Adversaries:</h3>";
+  const nav = document.createElement("nav");
 
   if (filteredData.length > 0) {
     for (let adversary of filteredData) {
-      characterListContainer.innerHTML += `<p><a href="#" onclick="displayCharacterInfo(${JSON.stringify(
+      nav.innerHTML += `<a href="#" onclick="displayCharacterInfo(${JSON.stringify(
         adversary
-      ).replace(/"/g, "&quot;")})">${adversary.name}</a></p>`;
+      ).replace(/"/g, "&quot;")})">${adversary.name}</a>`;
     }
   } else {
     characterListContainer.innerHTML += "<p>No adversaries found.</p>";
   }
+  characterListContainer.appendChild(nav);
 }
 
 // Function to filter adversaries based on search input
@@ -87,23 +89,8 @@ function filterAdversaries() {
   );
   generateNavigation(filteredData);
 
-  const characterListContainer = document.getElementById("characterList");
-  characterListContainer.innerHTML = "<h3>Adversaries:</h3>";
-
-  if (filteredData.length > 0) {
-    for (let adversary of filteredData) {
-      characterListContainer.innerHTML += `<p><a href="#" onclick="displayCharacterInfo(${JSON.stringify(
-        adversary
-      ).replace(/"/g, "&quot;")})">${adversary.name}</a></p>`;
-    }
-    // Display info for the first adversary by default
-    displayCharacterInfo(filteredData[0]);
-  } else {
-    characterListContainer.innerHTML += "<p>No adversaries found.</p>";
-    // Clear the character info when no adversaries are found
-    const characterInfoContainer = document.getElementById("characterInfo");
-    characterInfoContainer.innerHTML = "";
-  }
+  displayAdversaries("");
+  displayCharacterInfo(filteredData[0]);
 }
 
 // Initial setup
